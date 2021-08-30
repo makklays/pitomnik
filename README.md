@@ -10,11 +10,14 @@
 ## About Pitomnik 
 
 This is virtual pitomnik when you can add animal, see on the list of animals or give (riskup) animal.
+<br/><br/>
 
 ## Screenshots
 
 <img src="https://github.com/makklays/pitomnik/blob/main/public/img/pi1.png" alt="pi1" />
 <img src="https://github.com/makklays/pitomnik/blob/main/public/img/pi2.png" alt="pi2" />
 <img src="https://github.com/makklays/pitomnik/blob/main/public/img/pi3.png" alt="pi3" />
+<img src="https://github.com/makklays/pitomnik/blob/main/public/img/pi6.png" alt="pi6" />
+<img src="https://github.com/makklays/pitomnik/blob/main/public/img/pi7.png" alt="pi7" />
 <img src="https://github.com/makklays/pitomnik/blob/main/public/img/pi4.png" alt="pi4" />
 <img src="https://github.com/makklays/pitomnik/blob/main/public/img/pi5.png" alt="pi5" />
